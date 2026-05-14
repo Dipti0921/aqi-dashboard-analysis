@@ -39,7 +39,7 @@ The project focuses on identifying major pollutants, comparing AQI levels across
 ## Dashboard Preview
 
 ### Dashboard Overview
-![Dashboard Overview](dashboard-overview.png)
+![Dashboard Overview](Overview.png)
 
 
 ## Project Files
